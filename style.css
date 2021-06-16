@@ -1,0 +1,11 @@
+p{
+    background-color: crimson;
+    border: outset;
+    border-width: 8px;
+    border-radius: 18px;
+    
+}
+h1{
+    color: #00ff00;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
